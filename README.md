@@ -87,9 +87,9 @@ HouseholdID,AvgDailyUsage(kWh),PeakHourUsage(kWh),NightUsage(kWh),WeekendUsage(k
         http://127.0.0.1:5000
 
 
-## Output Example
-    ![alt text](<Screenshot 2025-08-01 160816.png>)
-    ![alt text](<Screenshot 2025-08-01 160830.png>)
+## Output Example    
+![alt text](<Screenshot 2025-08-01 160816.png>)
+  ![alt text](<Screenshot 2025-08-01 160830.png>)
     ![alt text](<Screenshot 2025-08-01 160843.png>)
     ![alt text](<Screenshot 2025-08-01 160903.png>)
     
